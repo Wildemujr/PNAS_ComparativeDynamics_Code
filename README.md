@@ -119,10 +119,3 @@
    Rscript --vanilla /Users/jansiess/Desktop/main_repository/v/vikLab/projects/thesis/aim1/paper_1_code/current_version/ProteinChainOptimalPathAnalyzer.R --pdb-id=5t5i --chain-id=G
    ```
 
-
-Explanation:
-- The `#` symbol is used for headings.
-- The `1.`, `2.`, `3.`, etc. are used for ordered lists.
-- The backticks (`` ` ``) are used for inline code formatting.
-- Triple backticks (```bash ... ```) are used for multi-line code blocks.
-- Bold text is created using double asterisks (`**`).
